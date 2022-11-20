@@ -9,6 +9,5 @@ public class Main{
         System.out.println(sumOfFirstAndLastDigit.sumFirstAndLastDigit(-16));
         System.out.println(sumOfFirstAndLastDigit.sumFirstAndLastDigit(4672));
         System.out.println(sumOfFirstAndLastDigit.sumFirstAndLastDigit(0));
-
     }
 }
